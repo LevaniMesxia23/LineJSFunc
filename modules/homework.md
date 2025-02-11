@@ -22,4 +22,4 @@ In this exercise, you will refactor some code that manages student enrollment re
 
 6. Define the student enrollments by calling `deepJS.enrollStudent(..)` for each.
 
-7. Change the execution code (the console output steps) to references to `deepJS.*` public API methods.
+7. Change the execution code (the console output steps) to references to `deepJS.` public API methods.
