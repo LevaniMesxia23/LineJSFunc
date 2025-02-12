@@ -13,3 +13,4 @@ curriedAddThreeNums(1)(3)(7) //should return 10
 Challenge 6
 Use partial application with your previously-defined curriedAddThreeNums to create a new function curriedAddTwoNumsToFive that when run twice in succession, adds two numbers to five as follows:
 curriedAddTwoNumsToFive(6)(7) //should return 18
+ 
